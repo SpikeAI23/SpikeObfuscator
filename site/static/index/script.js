@@ -1,0 +1,1 @@
+var SiteName = "Spike Obfuscator"
